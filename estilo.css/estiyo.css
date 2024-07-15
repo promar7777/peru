@@ -1,0 +1,19 @@
+*{
+    background-color: aquamarine;
+}
+h1,h2,h3{
+    text-decoration: overline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: brown;
+    font-style: italic;
+    text-shadow: 13px;
+    
+}
+container{
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+id.acerca{
+    color: blueviolet;
+}
